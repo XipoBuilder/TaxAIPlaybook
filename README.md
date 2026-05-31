@@ -1,7 +1,7 @@
 ![IBM AI Badge](https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)(https://www.credly.com/badges/462b0ee3-4b65-4737-a2eb-01ded0cd40e7/public_url)
 ![IBM PM Badge](https://images.credly.com/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png)(https://www.credly.com/badges/33a4d01a-4d78-45b9-8fa2-e4fb165c745f/public_url)
 ![IBM DataFundemental Badge](https://images.credly.com/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png)(https://www.credly.com/badges/33a4d01a-4d78-45b9-8fa2-e4fb165c745f/public_url)
-![IBM Digital Mindset Badge](https://images.credly.com/images/5909a359-2f38-42b8-bb0c-719887034b48/BadgeEmblem_DigitalMindset.png)(https://www.credly.com/badges/f2327729-0db2-4507-915f-59cb1334ef49/public_url)
+![IBM Digital Mindset Badge](https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)(https://www.credly.com/badges/f2327729-0db2-4507-915f-59cb1334ef49/public_url)
 ![IBM Engaging Stakeholders for Success Badge](https://images.credly.com/images/11a35743-6bcd-4406-83cd-bf74d1c8f646/image.png)(https://www.credly.com/badges/c51cddbd-b217-467f-9321-1aecd7716ced/public_url)
 ![IBM Data Science Badge](https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)(https://www.credly.com/badges/4ff79508-9ce0-4fb8-8ade-d24a8d6326e0/public_url)
 ![IBM Modern AI Badge](https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob)(https://www.credly.com/badges/82616454-8e39-4b55-b852-a1150148844c/public_url)
