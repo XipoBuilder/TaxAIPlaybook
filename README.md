@@ -1,1 +1,7 @@
-这是一个包含工具、游戏、文章的夹子
+![文字说明](https://www.credly.com/badges/f2327729-0db2-4507-915f-59cb1334ef49/public_url)
+![文字说明](https://www.credly.com/badges/82616454-8e39-4b55-b852-a1150148844c/public_url)
+![文字说明](https://www.credly.com/badges/9a420c6d-7697-4835-a622-5dc38d9a1a85/public_url)
+![文字说明](https://www.credly.com/badges/4ff79508-9ce0-4fb8-8ade-d24a8d6326e0/public_url)
+![文字说明](https://www.credly.com/badges/c51cddbd-b217-467f-9321-1aecd7716ced/public_url)
+![文字说明](https://www.credly.com/badges/33a4d01a-4d78-45b9-8fa2-e4fb165c745f/public_url)
+![文字说明](https://www.credly.com/badges/462b0ee3-4b65-4737-a2eb-01ded0cd40e7/public_url)
