@@ -112,8 +112,7 @@ python train.py --model_name Qwen/Qwen2-7B --data_path ../data/train.json
 
 📄 许可证
 
-· 代码部分（脚本、宏、HTML/JS）：采用 MIT License
-· 文档部分（经验文章、指南）：采用 CC BY-NC 4.0（允许署名转载，禁止商业用途）
+· 采用 MIT License
 
 ---
 
