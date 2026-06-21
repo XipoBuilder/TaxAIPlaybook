@@ -30,7 +30,7 @@ TaxAIPlaybook/
 │   ├── docker-setup.md         # 麒麟系统Docker环境配置
 │   └── scripts/                # 环境检测、一键启动脚本
 ├── TaxUtils/                  # 税务工具集
-│   ├── invoice-dedup/          # 发票数据清洗分析器（HTML）
+│   ├── invoice-data-cleaning/          # 发票数据清洗分析器（HTML）
 │   ├── tax-burden-alert/       # 报表一键拆分与汇总工具（HTML）
 │   ├── policy-compare/         # 政策对比器（HTML）
 │   └── wps-macros/             # WPS宏（JS文件）
@@ -61,7 +61,7 @@ TaxAIPlaybook/
 
 | 工具名称 | 类型 | 功能说明 | 使用方式 |
 |---------|------|----------|----------|
-| 发票数据清洗分析器 | HTML | 上传Excel/CSV，自动标记重复发票号 | [在线体验](https://XipoBuilder.github.io/TaxAIPlaybook/TaxUtils/invoice-data-analysis/)（待部署） |
+| 发票数据清洗分析器 | HTML | 上传表格，自动规范不同单位的发票数据 | [在线体验](https://XipoBuilder.github.io/TaxAIPlaybook/TaxUtils/invoice-data-cleaning/)（试用） |
 | 报表一键拆并工具 | HTML | 一键拆分合并表，体制内表哥表姐必备 | [在线体验](https://XipoBuilder.github.io/TaxAIPlaybook/TaxUtils/report-split-sum/)（待部署） |
 | 税收政策对比器 | HTML | 粘贴两份政策文本，高亮差异 | [在线体验](https://XipoBuilder.github.io/TaxAIPlaybook/TaxUtils/tax-policy-compare/)（待部署） |
 | 企业疑点自查工具 | WPS宏 | 多个税种申报表疑点自查 | [下载宏](./TaxUtils/wps-macros/merge-return.js) → WPS导入运行 |
